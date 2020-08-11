@@ -1,3 +1,4 @@
+<?php
 add_filter('add_to_cart_redirect', 'cw_redirect_add_to_cart');
 function cw_redirect_add_to_cart() {
     global $woocommerce;
