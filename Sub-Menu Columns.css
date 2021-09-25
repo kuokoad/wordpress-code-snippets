@@ -1,0 +1,5 @@
+.main-navigation li.two-column-menu > ul {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 350px;
+}
